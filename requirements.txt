@@ -4,3 +4,5 @@ pandas
 matplotlib
 jupyter
 Pillow
+tensorflow_hub==0.4.0
+tf-nightly
